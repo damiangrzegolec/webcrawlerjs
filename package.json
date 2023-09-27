@@ -1,0 +1,20 @@
+{
+  "name": "webcrawlerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiangrzegolec/webcrawlerjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiangrzegolec/webcrawlerjs/issues"
+  },
+  "homepage": "https://github.com/damiangrzegolec/webcrawlerjs#readme"
+}
