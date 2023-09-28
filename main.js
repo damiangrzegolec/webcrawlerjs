@@ -1,3 +1,3 @@
-const {normalizeURL} = require('./crawl.js')
+const {getURLsFromHTML} = require('./crawl.js')
 
-console.log(normalizeURL('http://test.pl'))
+//console.log(normalizeURL('http://test.pl'))
